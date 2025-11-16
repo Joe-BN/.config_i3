@@ -1,0 +1,11 @@
+Features to implement:
+- Tabs to open multiple file side by side
+- Lua status line at the bottom; file, line, git status, ...
+- Relative line and absolute line numbers (dif color for absolute)
+- Nerd font suport along with the icons
+- Gruvbox theme
+- Color highlighter for things like css
+- File tree &/ fuzzy finder
+- Syntax highlighting and ~ formating
+~ LSP
+
