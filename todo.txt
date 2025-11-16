@@ -1,0 +1,32 @@
+Things I need to do on this syste:
+- solve audio issues
+- wallpaper and image viewer + screen shots
+- file manager (GUI and TUI managers)
+
+- picom:
+	rounding
+	slight transparency
+	~ gaps
+	...
+
+- docker containers
+- configure git
+
+smaller:
+- the blue color as the top of stacked windows (gray like title bar/ a bit darker)
+- the blue line where the next window opens (different shade of grey)
+
+
+
+- look into flakes and home-manager
+	I have seen a bit about home-manager, it might serve it's perpose, but:
+	it would also be nice to see sth that give me editing permissions (doesn't lock dotfile to read only)
+	maybe sth like Ganu Stow !? (so that I can control all my files and still manage them)
+	{I'll see as I go along; could always disable it}
+
+- dev environements ? + nix for devs
+
+
+
+
+- how to manage ssh keys and all that with nixos

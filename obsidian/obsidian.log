@@ -1,0 +1,13 @@
+2025-11-07 20:04:46 Loading main app package /nix/store/7bbbwayzzinf5kpm98qq5pzxv8cm42wj-obsidian-1.8.10/share/obsidian/obsidian.asar
+2025-11-07 20:04:47 Checking for update using Github
+2025-11-07 20:04:48 Success.
+2025-11-07 20:04:48 Latest version is 1.9.14
+2025-11-07 20:04:48 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz
+2025-11-07 20:04:51 Verifying hash & signature. Size= 9033685
+2025-11-07 20:04:51 Saving file
+2025-11-07 20:04:52 Update complete.
+2025-11-07 21:13:36 Loading updated app package /home/phate/.config/obsidian/obsidian-1.9.14.asar
+2025-11-07 21:13:36 Checking for update using Github
+2025-11-07 21:13:37 Success.
+2025-11-07 21:13:37 Latest version is 1.9.14
+2025-11-07 21:13:37 App is up to date.
