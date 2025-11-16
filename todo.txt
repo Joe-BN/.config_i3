@@ -1,21 +1,7 @@
 Things I need to do on this syste:
-- solve audio issues
-- wallpaper and image viewer + screen shots
-- file manager (GUI and TUI managers)
-
-- picom:
-	rounding
-	slight transparency
-	~ gaps
-	...
-
-- docker containers
-- configure git
-
-smaller:
-- the blue color as the top of stacked windows (gray like title bar/ a bit darker)
-- the blue line where the next window opens (different shade of grey)
-
+- solve audio issues (less but still has roughness in the audio)
+- wallpaper and image viewer + screen shots (feh ?)
+- file manager (GUI and TUI managers) (Thunar + ...?)
 
 
 - look into flakes and home-manager
@@ -24,9 +10,28 @@ smaller:
 	maybe sth like Ganu Stow !? (so that I can control all my files and still manage them)
 	{I'll see as I go along; could always disable it}
 
-- dev environements ? + nix for devs
+
+
+- notifications and popups ?
+- systemwide nerdfont ?
+- TUI file manager
+- configure Neovim
+Shell:
+  - configure bash 'header'; 
+    - git indicators
+    -short location part
+    - color
+    ...
+  - consider zsh ?
+
+
+# using flakes:
+- devolopment shells:
+  isolation of development environments
+  {How to use flakes to configure development shells and store them on github}
+
+- Nix language for development
 
 
 
-
-- how to manage ssh keys and all that with nixos
+- Manage secrets (eg: ssh keys and passwords)
