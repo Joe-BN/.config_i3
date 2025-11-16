@@ -1,0 +1,34 @@
+// universal selector
+* {
+  bg: #11121d;
+  bg-alt: #444b6a;
+
+  fg: #ffffff;
+  fg-alt: #787c99;
+
+  border-color: @bg;
+
+  border: 0;
+  margin: 0;
+  padding: 4;
+  spacing: 0;
+}
+
+window {
+  width: 38%;
+}
+
+element {
+  padding: 2;
+  text-color: @fg-alt;
+}
+
+element-icon {
+  size: 24;
+}
+
+listview {
+  background-color: @bg;
+  columns: 1;
+  lines: 8;
+}

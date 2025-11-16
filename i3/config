@@ -5,7 +5,7 @@ set $mod Mod1
 
 # Font for window titles.
 #font pango:monospace 8
-font pango:Cousing Italic 10
+font pango:Cousine Italic 10
 
 
 # Start XDG autostart .desktop files using dex.

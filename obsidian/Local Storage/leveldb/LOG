@@ -1,3 +1,3 @@
-2025/11/08-00:13:36.580 1646 Reusing MANIFEST /home/phate/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2025/11/08-00:13:36.591 1646 Recovering log #3
-2025/11/08-00:13:36.591 1646 Reusing old log /home/phate/.config/obsidian/Local Storage/leveldb/000003.log 
+2025/11/16-13:58:02.508 523f Reusing MANIFEST /home/phate/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2025/11/16-13:58:02.582 523f Recovering log #3
+2025/11/16-13:58:02.583 523f Reusing old log /home/phate/.config/obsidian/Local Storage/leveldb/000003.log 

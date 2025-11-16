@@ -1,4 +1,17 @@
 //@theme "/nix/store/7709w26jj56ym514bm5xlswwfjjx92ix-rofi-1.7.9/share/rofi/themes/android_notification.rasi"
 
 // Custom Themeing
+configuration {
+  display-drun: "Application: ";
+  display-windows: "Windows: ";
+  drun-display-format: "{icon} {name}";
+  font: "Cousine 14";
+  modi: "window, run, drun";
+  show-icons: true;
+  icon-theme: "Papirus-Dark";
+}
+
+@theme "themes/gruvbox_material.rasi"
+// @theme "/home/phate/.config/rofi/theme.rasi" -> file to put all my colors and themeing
+// use: @theme "/dev/null" so that de default theme doesn't mix with your additions
 
