@@ -1,0 +1,7 @@
+Volume indicator
+Wifi / Ethernet indicator
+Text for the Battery (BAT:)
+Brighness indicator and controls
+
+
+~ Notifications
