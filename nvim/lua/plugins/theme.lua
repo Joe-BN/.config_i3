@@ -1,7 +1,7 @@
 -- add theme and add change between them when you want
 -- probably has a more modular way to do this
 
-local theme = "tokyogruv"
+local theme = "vague"
 
 local output = {}
 
@@ -28,8 +28,34 @@ elseif theme == "gruvbox" then
     end,
   }
 
+-- Melange
+elseif theme == "melange" then
+  output = {
+    "rebelot/kanagawa.nvim",
+    lazy = false,
+    priority = 1000,
+    config = function()
+      vim.cmd("colorscheme kanagawa-wave") -- or kanagawa-dragon for a warmer tone
+    end,
+  }
+
+-- Vague
+elseif theme == "vague" then
+  output = {
+    "vague-theme/vague.nvim",
+    lazy = false, -- make sure we load this during startup if it is your main colorscheme
+    priority = 1000, -- make sure to load this before all the other plugins
+    config = function()
+      -- NOTE: you do not need to call setup if you don't want to.
+      require("vague").setup({
+        -- optional configuration here
+      })
+      vim.cmd("colorscheme vague")
+    end,
+  }
+
 -- Tokyonight with Gruvbox Mood
-elseif theme == "tokyogruv" then
+elseif theme == "kanagwa" then
   output = {
     "rebelot/kanagawa.nvim",
     lazy = false,
