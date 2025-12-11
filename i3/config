@@ -219,3 +219,7 @@ client.focused_inactive $bg  $bg  $fg $bg2
 client.unfocused        $bg  $bg  $fg $bg
 client.urgent           $red $red $fg $red
 
+
+# Disable focus follows mouse on hover
+focus_follows_mouse no
+
