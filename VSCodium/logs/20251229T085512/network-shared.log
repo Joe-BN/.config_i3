@@ -1,0 +1,9 @@
+2025-12-29 08:56:27.092 [error] #1: https://open-vsx.org/vscode/asset/golang/Go/0.52.1/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Request timeout after 10000ms
+2025-12-29 08:56:37.563 [error] #2: https://open-vsx.org/vscode/asset/golang/Go/0.52.1/Microsoft.VisualStudio.Code.Manifest?targetPlatform=universal - error GET Request timeout after 10000ms
+2025-12-29 09:05:27.839 [error] #3: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET Request timeout after 10000ms
+2025-12-29 09:10:38.357 [error] #4: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET Request timeout after 10000ms
+2025-12-29 09:20:48.869 [error] #6: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-12-29 09:28:22.312 [error] #7: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-12-29 09:39:42.532 [error] #8: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-12-29 17:27:56.525 [error] #12: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET Request timeout after 10000ms
+2025-12-29 20:20:03.298 [error] #24: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED

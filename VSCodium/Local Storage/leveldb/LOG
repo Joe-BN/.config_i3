@@ -1,2 +1,3 @@
-2025/12/11-18:55:12.696 928 Creating DB /home/phate/.config/VSCodium/Local Storage/leveldb since it was missing.
-2025/12/11-18:55:12.784 928 Reusing MANIFEST /home/phate/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
+2025/12/29-08:55:12.581 c89 Reusing MANIFEST /home/phate/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
+2025/12/29-08:55:12.688 c89 Recovering log #3
+2025/12/29-08:55:12.692 c89 Reusing old log /home/phate/.config/VSCodium/Local Storage/leveldb/000003.log 
