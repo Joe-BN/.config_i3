@@ -1,7 +1,7 @@
 -- add theme and add change between them when you want
 -- probably has a more modular way to do this
 
-local theme = ""
+local theme = "gruvbox"
 
 local output = {}
 
